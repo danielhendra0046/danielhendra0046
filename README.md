@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**danielhendra0046/danielhendra0046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Halo semua! 
+ 
+Perkenalkan nama saya **Daniel Hendra Andriyanto**.<br>
+ 
+Saya seorang **Fresh Graduate** dari Manajemen Bisnis ITS<br>
+ 
+Saya ingin menjadi seorang manajer operasional di sebuah perusahaan, sekaligus menguasai data scientist<br>
+ 
+Selama perkuliahan, saya pernah menjadi website supervisor di event MANIFEST yang membawa saya menjadi peserta Bangkit Academy 2022 Led by Google, GoTo, and Traveloka - Cloud Computing Path.<br>
+ 
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/daniel-hendra-andriyanto-45329b1b2/)ku ya.
+ 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/danielhendra0046">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danielhendra0046&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danielhendra0046&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
