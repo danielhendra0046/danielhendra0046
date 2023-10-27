@@ -8,7 +8,7 @@ Saya ingin menjadi seorang manajer operasional di sebuah perusahaan, sekaligus m
  
 Selama perkuliahan, saya pernah menjadi website supervisor di event MANIFEST yang membawa saya menjadi peserta Bangkit Academy 2022 Led by Google, GoTo, and Traveloka - Cloud Computing Path.<br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/daniel-hendra-andriyanto-45329b1b2/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/daniel-hendra-andriyanto-45329b1b2/)ku ya.
  
 ### Github Statistic
 <p align="left">
